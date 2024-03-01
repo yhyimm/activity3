@@ -37,6 +37,15 @@ th, td
 	text-align: center;
 }
 
+#cap{
+	font-weight:bold;
+}
+
+#div {
+	border: 1px solid #000000;
+	position: fixed;
+}
+
 
 
 tbody tr:nth-child(even) td
